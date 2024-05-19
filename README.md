@@ -1,6 +1,4 @@
-Sure! Here's a detailed description for your LinkedIn post about your movie recommender system:
 
----
 
 🚀 **Project Launch: Movie Recommender System** 🚀
 
