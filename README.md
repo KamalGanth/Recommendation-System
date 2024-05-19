@@ -1,9 +1,4 @@
 
-
-🚀 **Project Launch: Movie Recommender System** 🚀
-
-I’m excited to announce the completion of my latest project—a **Movie Recommender System** designed to help users discover movies tailored to their unique tastes! 🎬✨
-
 ### **Project Overview:**
 
 **1. Recommendation Type:**  
